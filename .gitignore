@@ -1,0 +1,4 @@
+*.pyc
+temp_*
+temp/
+.spyderproject
