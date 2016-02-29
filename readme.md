@@ -1,7 +1,7 @@
 
-# sample code for Kaggle Meetup Tokyo presentation
+# Kaggle Prudential sample code 
 
-sample solution for Kaggle Prudential
+sample solution for Kaggle Prudential, for Kaggle Meetup Tokyo presentation  
 (https://www.kaggle.com/c/prudential-life-insurance-assessment)
 
 ## Instruction
